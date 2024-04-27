@@ -30,7 +30,7 @@ if(isset($_POST["submit"])){
 <body>
     <h1>Ubah Data informasi</h1>
     <form action="" method="POST">
-    <input type="hidden" name="id" value="<?= $informasi["id"];?>">
+    <input type="hidden" name="id" value="<?= $bukutelpon["id"];?>">
         <ul>
           
             <li>
